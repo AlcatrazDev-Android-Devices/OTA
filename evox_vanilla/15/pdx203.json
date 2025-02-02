@@ -1,0 +1,25 @@
+{
+  "response": [
+    {
+      "maintainer": "Alcatraz323",
+      "oem": "Sony",
+      "device": "Xperia 1 II",
+      "filename": "EvolutionX-15.0-20250202-pdx203-10.2.1-Vanilla-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Xperia%201%20II/Android%2015/EvolutionX/20250202/EvolutionX-15.0-20250202-pdx203-10.2.1-Vanilla-Unofficial.zip/download",
+      "timestamp": 1738483514,
+      "md5": "57166fd709b0f948bd93e80963c6be6e",
+      "sha256": "d338b4ca681705b96b6f769e748259009d8473f56effdf1e9f5745e15d1a98d4",
+      "size": 1913836277,
+      "version": "10.2",
+      "buildtype": "Release",
+      "forum": "https://xdaforums.com/t/rom-15-unofficial-evolution-x-10-2-1-02-02-2025.4716571/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "",
+      "github": "Alcatraz323",
+      "initial_installation_images": [
+        "recovery"
+      ]
+    }
+  ]
+}
