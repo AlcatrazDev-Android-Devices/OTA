@@ -1,1 +1,36 @@
+===========================================================
+[15/10.2.1] 20250202
+首个版本
 Initial EvolutionX 15
+===========================================================
+[15/10.3] 20250207/8
+设备相关(Device):
+- 修复Vanilla版本主题闪退
+  Fixed Vanilla crash on theme settings
+- 修复1080p指纹位置
+  Fixed 1080p fingerprint indicator location
+- 添加OTA支持
+  Add OTA support
+
+系统相关(EvolutionX):
+- 景深壁纸
+  Depth Wallpaper
+- 音乐锁屏过滤器
+  Lockscreen media art filter
+- 系统播放器模式选择
+  Media player mode
+- 通知主题
+  Notification themes
+- 电源菜单主题
+  Power menu styles
+- 系统进度条主题
+  Progress bar styles
+- 下拉面板时钟主题
+  QS Header Clock styles
+- 分离通知阴影
+  Split notification shade
+- 壁纸风格
+  Wallpaper styles
+- 二月安全补丁
+  Feburary Security Patch
+===========================================================
