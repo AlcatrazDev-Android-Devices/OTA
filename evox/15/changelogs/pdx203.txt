@@ -34,3 +34,52 @@ Initial EvolutionX 15
 - 二月安全补丁
   Feburary Security Patch
 ===========================================================
+[15/10.3] 20250217
+设备相关(Device):
+- 弃用过时的Z3Fold内存压缩器，使用ZSMalloc
+  Deprecated z3fold, use zsmalloc
+- 优化GPU相关驱动
+  Optimize GPU driver
+- 启用Zram dedup
+  Enable zram dedup
+- 启用CGroupV2 Binder冻结 (他们叫墓碑？)
+  Enable CGroup V2 Binder freeze
+- 优化休眠唤醒调用
+  Optimize wake source call
+- 优化开机时间 (LZ4 RD KPI)
+  Optimize boot time
+- 优化闪存预读调度
+  Optimize memory read io
+- USB OTG, Sdcard 解除文件系统支持限制
+  Allow all filesystem for otg, sdcard
+- 优化闪存预读调度
+  Optimize memory read io
+- 关闭GL背压
+  Disable GL backpressure
+- 启用AM缓存应用压缩机制
+  Enable cached app heap compaction
+- 优化潜在metadata分区安全问题提高数据安全，稳定性
+  Optimize possible security/corruption for metadata partition
+- 移除非必要sda discard参数设置
+  Remove not needed discard param tuning
+- 启用更多IPSec功能(IPSEC_TUNNEL_MIGRATION to B5/R3/B9)
+  Enable more IPSec function
+- 中文用户启用百度网络定位辅助
+  Enable baidu network location(agps) for zh language user
+- 启用更多游戏控制器支持
+  Enable more Game Controller support
+- 删除部分应用(可以自行下载安装)
+  Remove some sony apps, you can install yourself
+
+系统相关(EvolutionX):
+- 添加更多字体
+  Add more fonts
+- 灵动岛通知
+  Island notification
+- 通知透明功能
+  Transparent notification function
+- 自定义时钟
+  Clockface
+- 其他小功能添加与修复
+  Other small function and fix
+===========================================================
