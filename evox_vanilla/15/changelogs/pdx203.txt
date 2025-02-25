@@ -83,3 +83,16 @@ Initial EvolutionX 15
 - 其他小功能添加与修复
   Other small function and fix
 ===========================================================
+[15/10.3] 20250224/5
+设备相关(Device):
+- 进一步升级AOSP任务调度
+  Furthur optimize aosp task management
+- 内核合并4.19.325
+  Kernel merge 4.19.325
+
+系统相关(EvolutionX):
+- 稳定性提升
+  Improved stability
+- 翻译更新
+  Translation update
+===========================================================
