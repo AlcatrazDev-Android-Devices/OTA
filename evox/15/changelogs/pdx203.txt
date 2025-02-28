@@ -96,3 +96,14 @@ Initial EvolutionX 15
 - 翻译更新
   Translation update
 ===========================================================
+[15/10.3] 20250228
+设备相关(Device):
+- 部分系统应用太新，回退一些系统应用版本
+  Downgrade some system app version which are too new
+
+系统相关(EvolutionX):
+- 稳定性提升
+  Improved stability
+- 翻译更新
+  Translation update
+===========================================================
