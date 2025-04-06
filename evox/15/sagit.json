@@ -1,0 +1,25 @@
+{
+  "response": [
+    {
+      "maintainer": "Alcatraz323",
+      "oem": "Xiaomi",
+      "device": "Mi 6",
+      "filename": "EvolutionX-15.0-20250406-sagit-10.3-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%206/Android%2015/EvolutionX/20250406/EvolutionX-15.0-20250406-sagit-10.3-Unofficial.zip/download",
+      "timestamp": 1743898805,
+      "md5": "2d087bcb1b99e4c14cc10075973e38ce",
+      "sha256": "bf5223cf8fc2b2f78116f462897fbc81aededb1cfee99e438d9000899a71616d",
+      "size": 2342466958,
+      "version": "10.3",
+      "buildtype": "Release",
+      "forum": "https://xdaforums.com/t/rom-15-ota-unofficial-evolution-x-10-3-06-04-2025-full-picogms-vanilla.4729370/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "",
+      "github": "Alcatraz323",
+      "initial_installation_images": [
+          "recovery"
+      ]
+    }
+  ]
+}
