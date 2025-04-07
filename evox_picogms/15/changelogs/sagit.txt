@@ -3,3 +3,8 @@
 首个版本
 Initial EvolutionX 15
 ===========================================================
+[15/10.3] 20250407
+设备相关(Device):
+- 修复Fuse-Passthrough在特定场景导致Panic
+  Fixed Fuse-Passthrough caused panic in specific scenario
+===========================================================
