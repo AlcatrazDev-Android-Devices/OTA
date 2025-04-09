@@ -8,3 +8,12 @@ Initial EvolutionX 15
 - 修复Fuse-Passthrough在特定场景导致Panic
   Fixed Fuse-Passthrough caused panic in specific scenario
 ===========================================================
+[15/10.3] 20250409
+设备相关(Device):
+- 修复连接特定蓝牙耳机时系统崩溃问题
+  Fixed system crash when connect to a modern tws
+- 修复Ok Google功能
+  Fixed "ok google" support
+- 改善部分场景卡顿和续航问题
+  Optimize lag and battery in specific scenario
+===========================================================
