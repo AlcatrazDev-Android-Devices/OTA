@@ -17,3 +17,18 @@ Initial EvolutionX 15
 - 改善部分场景卡顿和续航问题
   Optimize lag and battery in specific scenario
 ===========================================================
+[15/10.5] 20250421
+设备相关(Device):
+- 优化关键应用内存驻留配置
+  Optimize critical app's mem pin
+- 更新Radio, NFC, PD, DPM, Alarm等驱动文件
+  Update Radio, NFC, PD, DPM, Alarm files
+- 其他小功能添加与修复
+  Other small function and fix
+
+系统相关(EvolutionX):
+- Android 15 第二次季度性更新
+  Android 15 Quarterly Platform Release 2
+- 4月安全补丁
+  April security patch
+===========================================================
