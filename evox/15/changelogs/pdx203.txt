@@ -107,3 +107,20 @@ Initial EvolutionX 15
 - 翻译更新
   Translation update
 ===========================================================
+[15/10.5] 20250420
+设备相关(Device):
+- 日版使用正确NFC配置
+  Use FeliCa (NFC Type-F) config for other JP models
+- 优化内核内存重映射性能
+  Optimize kernel mem remapping performance
+- 优化关键应用内存驻留配置
+  Optimize critical app's mem pin
+- 其他小功能添加与修复
+  Other small function and fix
+
+系统相关(EvolutionX):
+- Android 15 第二次季度性更新
+  Android 15 Quarterly Platform Release 2
+- 4月安全补丁
+  April security patch
+===========================================================
