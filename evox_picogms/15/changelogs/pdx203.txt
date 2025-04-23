@@ -124,3 +124,12 @@ Initial EvolutionX 15
 - 4月安全补丁
   April security patch
 ===========================================================
+[15/10.5] 20250423
+设备相关(Device):
+- 修复单卡型号SIM无信号
+  Fix SIM not working for single sim sku
+
+系统相关(EvolutionX):
+- 其他小功能添加与修复
+  Other small function and fix
+===========================================================
