@@ -32,3 +32,18 @@ Initial EvolutionX 15
 - 4月安全补丁
   April security patch
 ===========================================================
+[15/10.5] 20250503
+设备相关(Device):
+- 使用传统热点配置界面(不支持wpa3热点)
+  Use legacy hotspot settings page as we don't support wpa3 hotspot
+- 启用视频通话支持
+  Enable video calling
+- 内核调度与内存管理优化
+  Kernel optimization for scheduling and memory management
+- 其他小功能添加与修复
+  Other small function and fix
+
+系统相关(EvolutionX):
+- 稳定性更新
+  Stability update
+===========================================================
