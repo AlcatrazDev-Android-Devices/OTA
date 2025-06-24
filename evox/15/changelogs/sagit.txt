@@ -47,3 +47,16 @@ Initial EvolutionX 15
 - 稳定性更新
   Stability update
 ===========================================================
+[15/10.7] 20250624
+设备相关(Device):
+- 切换到UClamp调度器
+  Switch to uclamp scheduler
+- 合并cip内核
+  Merged kernel cip
+
+系统相关(EvolutionX):
+- 6月安全补丁
+  June security patch
+- 稳定性更新
+  Stability update
+===========================================================
