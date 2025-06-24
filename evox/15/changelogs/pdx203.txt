@@ -138,3 +138,26 @@ Initial EvolutionX 15
 - 稳定性更新
   Stability update
 ===========================================================
+[15/10.7] 20250624
+设备相关(Device):
+- 从5.10反向移植MG-LRU补丁
+  Backport MG-LRU patches from k5.10
+- 从5.10反向移植lzo-rle并设置为默认zram后端
+  Backport lzo-rle from k5.10 and set as default zram backend
+- 关闭ZRAM Dedup(rle包含)
+  Disable zram dedup
+- 合并内核上游更新
+  Merged kernel upstream update
+- 调整LMK阈值(优化大型国产应用)
+  Adjust LMK values
+- 增加ZRAM Writeback 大小至1G
+  Increase zram wb device to 1G
+- 其他优化
+  Other optimizations
+
+系统相关(EvolutionX):
+- 6月安全补丁
+  June security patch
+- 稳定性更新
+  Stability update
+===========================================================
