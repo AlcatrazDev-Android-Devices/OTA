@@ -1,0 +1,26 @@
+{
+    "response": [
+      {
+        "maintainer": "Alcatraz323",
+        "currently_maintained": true,
+        "oem": "Xiaomi",
+        "device": "Mi Pad 4 / 4 Plus",
+        "filename": "EvolutionX-15.0-20250713-clover-10.7-PicoGms-Unofficial.zip",
+        "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%20Pad%204%20Series/Android%2015/EvolutionX/20250713/EvolutionX-15.0-20250713-clover-10.7-PicoGms-Unofficial.zip/download",
+        "timestamp": 1752363554,
+        "md5": "0db726048ed1a0dd2c3e5f50610fac7f",
+        "sha256": "b4adcdc02b9020f23a0937c9b590c8140e21b947d9a8d270f5bf1199817ed1cd",
+        "size": 2006602367,
+        "version": "10.7",
+        "buildtype": "Release",
+        "forum": "https://xdaforums.com/t/rom-15-ota-unofficial-evolution-x-10-7-13-07-2025-full-picogms-vanilla.4751185/",
+        "firmware": "",
+        "paypal": "",
+        "telegram": "",
+        "github": "Alcatraz323",
+        "initial_installation_images": [
+          "recovery"
+        ]
+      }
+    ]
+  }
