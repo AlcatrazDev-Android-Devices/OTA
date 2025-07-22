@@ -1,0 +1,28 @@
+{
+    "response": [
+      {
+        "maintainer": "Alcatraz323",
+        "currently_maintained": true,
+        "oem": "Xiaomi",
+        "device": "Mi 10S",
+        "filename": "EvolutionX-16.0-20250718-thyme-11.0-PicoGms-Unofficial.zip",
+        "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%2010S/Android%2016/EvolutionX/20250718/EvolutionX-16.0-20250718-thyme-11.0-PicoGms-Unofficial.zip/download",
+        "timestamp": 1752834135,
+        "md5": "f72a8b28c5c4e198c12a382a11d27c1d",
+        "sha256": "db45108752e895e38ec17bcde57cb0581f4b54d0b17c149909648650f07eb743",
+        "size": 2124110853,
+        "version": "11.0",
+        "buildtype": "Release",
+        "forum": "https://xdaforums.com/t/rom-16-ota-unofficial-thyme-evolution-x-for-mi-10s-11-0-20-07-2025-full-picogms-vanilla.4751178/",
+        "firmware": "",
+        "paypal": "",
+        "telegram": "",
+        "github": "Alcatraz323",
+        "initial_installation_images": [
+          "boot",
+          "dtbo",
+          "vendor_boot"
+        ]
+      }
+    ]
+  }
