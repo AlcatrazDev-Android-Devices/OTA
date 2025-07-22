@@ -2,3 +2,18 @@
 [16/11.0] 20250718
 首个16版本
 Initial EvolutionX 16
+===========================================================
+[16/11.0] 20250720
+设备相关(Device):
+- 修复锁屏启动相机
+  Fix camera crash when starting from Lockscreen
+- 修复双卡
+  Fix dual sim
+- 启用HDR/SDR(UltraHDR)混合功能
+  Enable HDR/SDR feature
+
+系统相关(EvolutionX):
+- 修复USB通知
+  Fix usb notification
+- 其他修复
+  Other fixes
