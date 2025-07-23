@@ -2,3 +2,20 @@
 [16/11.0] 20250721
 首个16版本
 Initial EvolutionX 16
+===========================================================
+[16/11.0] 20250723
+设备相关(Device):
+- 修复相机
+  Fixed cameras
+- 修复录屏
+  Fixed screen record
+- 更新系统应用
+  Update some system apps
+- 修正 OTA 配置
+  Correct OTA config
+- 关闭非必要内核调试选项
+  Disable unnecessary kernel debug config 
+
+系统相关(EvolutionX):
+- 各种修复
+  Other fixes
