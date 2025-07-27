@@ -19,3 +19,16 @@ Initial EvolutionX 16
 系统相关(EvolutionX):
 - 各种修复
   Other fixes
+===========================================================
+[16/11.0] 20250727
+设备相关(Device):
+- 修复各种音量过大，动态振动过强问题
+  Fixed volume too high and too intense for media vibration
+- 调整音效设置UI
+  Adjust audio effect settings UI
+- 添加动态振动磁贴控制
+  Add media vibration qs tile control
+
+系统相关(EvolutionX):
+- 各种修复
+  Other fixes
