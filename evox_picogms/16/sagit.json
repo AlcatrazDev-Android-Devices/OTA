@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "maintainer": "Alcatraz323",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Mi 6",
+      "filename": "EvolutionX-16.0-20250801-sagit-11.0-PicoGms-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%206/Android%2016/EvolutionX/20250801/EvolutionX-16.0-20250801-sagit-11.0-PicoGms-Unofficial.zip/download",
+      "timestamp": 1754009300,
+      "md5": "3839be8d1b60266612fc610a18ae2e03",
+      "sha256": "a8699576e68ba99e46017c8a04da1cfbd41b98cdbf484ee9036fc7097cbc4d7e",
+      "size": 1877668460,
+      "version": "11.0",
+      "buildtype": "Release",
+      "forum": "https://xdaforums.com/t/rom-16-ota-unofficial-evolution-x-11-0-01-08-2025-full-picogms-vanilla.4752674/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "",
+      "github": "Alcatraz323",
+      "initial_installation_images": [
+          "recovery"
+      ]
+    }
+  ]
+}
