@@ -2,3 +2,13 @@
 [16/11.0] 20250722
 首个16版本
 Initial EvolutionX 16
+===========================================================
+[16/11.0] 20250801
+设备相关(Device):
+- 修复错误的SystemUI配置
+  Fixed wrong SystemUI configuration
+
+系统相关(EvolutionX):
+- 各种修复
+  Other fixes
+
