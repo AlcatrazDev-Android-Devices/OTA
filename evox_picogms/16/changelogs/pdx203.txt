@@ -32,3 +32,37 @@ Initial EvolutionX 16
 系统相关(EvolutionX):
 - 各种修复
   Other fixes
+===========================================================
+[16/11.0] 20250802
+设备相关(Device):
+- 修复错误的SystemUI配置
+  Fixed wrong SystemUI configuration
+- 修复错误的se上下文
+  Fixed wrong selinux context
+- 修复错误的directBootAware配置
+  Fixed wrong directBootAware config
+- 添加抗闪烁模式
+  Add anti flicker mode
+- 内核显示驱动优化
+  Kernel display driver optimization
+- 删除部分不必要或过老应用(想要可以自己装)
+  Drop old/not necessary apps(Install yourself if you need)
+- 修复5G, Wifi6热点
+  Fixed 5G and Wifi6 Hotspot
+- 更新Wifi配置
+  Updated wifi config
+- 修复编码器错误
+  Fixed encoder failures
+- 优化zram启动
+  Optimize zram start up process
+- 启用ARMv8.2-DotProd指令集优化
+  Enable ARMv8.2-DotProd optimization
+- 修复USB网络共享
+  Fixed USB tethering
+
+
+系统相关(EvolutionX):
+- 修复IMEI无法显示
+  Fixed IMEI not show
+- 各种修复
+  Other fixes
