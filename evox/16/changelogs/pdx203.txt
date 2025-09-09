@@ -66,3 +66,18 @@ Initial EvolutionX 16
   Fixed IMEI not show
 - 各种修复
   Other fixes
+===========================================================
+[16/11.0] 20250822
+设备相关(Device):
+- 适配作为Webcam设备的功能
+  Backport device as webcam feature
+- 支持解锁后使用NFC
+  Support "Require device unlock for NFC" (SecureNFC)
+- 实现高亮度(HBM)模式
+  Implement High Brightness Mode(HBM) QS Tile
+- 无线投屏启用多种类设备输入
+  Enable all kinds of input for wfd(miracast)
+
+系统相关(EvolutionX):
+- 各种修复
+  Other fixes
