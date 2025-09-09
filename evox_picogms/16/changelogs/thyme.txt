@@ -17,3 +17,30 @@ Initial EvolutionX 16
   Fix usb notification
 - 其他修复
   Other fixes
+===========================================================
+[16/11.1] 20250908
+设备相关(Device):
+- 修复原相机的Shortcut
+  Fix stock camera's shortcut
+- 修复原相机导致的亮度异常
+  Fix brightness issue caused by stock camera
+- 内核上游更新
+  Kernel upstream update
+- 内核携带BBR, FQ_CODEL，FQ，允许手动切换
+  Kernel compiles with BBR, FQ_CODEL and FQ
+- 适配作为Webcam设备的功能
+  Backport device as webcam feature
+- 更新杜比（注意，此项需要你更新开机后手动删除/data/vendor/dolby, 以及清除杜比应用的数据并重启，否则严重破音，如果你不会操作，直接备份双清也可以）
+  Update Dolby(Warning, this require you to manually delete "/data/vendor/dolby" and clean the Dolby app data after the update, or you will have distortion, if you don't know how, just do backup and factory reset)
+- 优化自动亮度
+  Optimize auto brightness
+- 修复部分场景由刷新率设置导致的卡死
+  Fixed some freeze caused by refreshrate settings
+- 优化任务调度配置
+  Optimize task scheduling
+
+系统相关(EvolutionX):
+- 修复IMEI无法显示
+  Fixed IMEI not show
+- 其他修复
+  Other fixes
