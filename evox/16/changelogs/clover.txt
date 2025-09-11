@@ -11,4 +11,42 @@ Initial EvolutionX 16
 系统相关(EvolutionX):
 - 各种修复
   Other fixes
+===========================================================
+[16/11.1] 20250910
+设备相关(Device):
+- 内核合并cip123
+  Kernel merged cip123
+- 内核升级6.10的uvc功能(大幅降低将设备用作摄像头时的闪屏)
+  Kernel update uvc to k6.10 version(Much optimized the flicking when using DeviceAsWebcam)
+- 内核携带TCP_BBR, FQ
+  Kernel compiled with bbr, fq
+- 启用300mhz的最低频率
+  Enable 300mhz as min freq
+- 启用uffd
+  Enable uffd
+- 启用AOSP高级窗口管理
+  Enable AOSP advanced window management
+- 优化任务调度配置
+  Optimize task scheduling
+- 修复将设备用作摄像头功能
+  Fix DeviceAsWebcam
+- 启用将设备用作摄像头时的硬件编码
+  Enable hardware encoding when using DeviceAsWebcam
+- 修复错误的USB Audio V2配置
+  Fix the wrong config for usb audio v2
+- 优化LMK参数
+  Optimize LMK configs
+- 添加更健全的fstab选项
+  Add more option in fstab for stability
+- 中文用户自动启用百度辅助定位
+  Enable baidu agps for zh users
+- 高级重启添加fastbootd
+  Add fastbootd to advanced reboot panel
 
+系统相关(EvolutionX):
+- 修复IMEI不显示
+  Fix imei now show
+- 8月安全更新
+  August security update
+- 各种修复
+  Other fixes
