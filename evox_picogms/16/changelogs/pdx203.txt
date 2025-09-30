@@ -81,3 +81,26 @@ Initial EvolutionX 16
 系统相关(EvolutionX):
 - 各种修复
   Other fixes
+===========================================================
+[16/11.2] 20250930
+设备相关(Device):
+- 默认内核去除KernelSU, 改为提供KSU boot.img以自行选择是否ksu
+  The default kernel removed KernelSU, provided ksu boot.img for you to do it manually
+- 内核上游合并(UFFD, BPF...)
+  Kernel upstream update(UFFD, BPF)
+- 切换为perfmgr+uclamp调度
+  Swicth to perfmgr+uclamp调度
+- 修正错误的SimpleDeviceConfig配置方式
+  Fix wrong SimpleDeviceConfig config method
+- 修复错误的runtime优化配置
+  Fix wrong runtime optimization config
+- 性能/续航调优
+  Optimized for performance/power
+- 高级重启添加SystemUI重启选项
+  Added restart_systemui option to advanced reboot
+
+系统相关(EvolutionX):
+- 9月补丁
+  September security patch
+- 各种修复
+  Other fixes
