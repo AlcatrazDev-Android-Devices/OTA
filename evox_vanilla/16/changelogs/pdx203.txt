@@ -104,3 +104,23 @@ Initial EvolutionX 16
   September security patch
 - 各种修复
   Other fixes
+  
+===========================================================
+[16/11.3] 20251013
+设备相关(Device):
+- 暂时关闭有问题的UFFD以缓解特定App闪退问题
+  Temporarily disabled buggy uffd for fixing certain app crash
+- 切换io调度器为bfq
+  Switch io scheduler to bfq
+- 启用AVB,去除localversion, cip-version以通过更多检测
+  Enabled AVB, removed kernel localversion, cip-version for passing more app check
+- 进一步优化ZRAM
+  Further optimization for zram
+- 更新默认网络设置
+  Update default network mode
+
+系统相关(EvolutionX):
+- 10月补丁
+  October security patch
+- 各种修复
+  Other fixes
