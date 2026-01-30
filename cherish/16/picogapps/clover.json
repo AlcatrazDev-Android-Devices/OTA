@@ -1,0 +1,26 @@
+{
+    "response": [
+      {
+        "maintainer": "Alcatraz323",
+        "currently_maintained": true,
+        "oem": "Xiaomi",
+        "device": "Mi Pad 4 / 4 Plus",
+        "filename": "CherishOS-v6.3-clover-20251122-0802-UNOFFICIAL-PicoGapps.zip",
+        "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%20Pad%204%20Series/Android%2016/CherishOS/20251122/CherishOS-v6.3-clover-20251122-0802-UNOFFICIAL-PicoGapps.zip/download",
+        "timestamp": 1763798391,
+        "md5": "22667e7a5bb7e445bc64dae333c70946",
+        "sha256": "0c9baa5d948f8c950816135a6e0ace70797a8ccf627e54a894f95d22ab3534f0",
+        "size": 1976865173,
+        "version": "6.3-clover-20251122-0759-UNOFFICIAL-Gapps",
+        "buildtype": "user",
+        "forum": "https://xdaforums.com/t/rom-16-ota-unofficial-evolution-x-11-0-22-07-2025-full-picogms-vanilla.4751186/",
+        "firmware": "",
+        "paypal": "",
+        "telegram": "",
+        "github": "Alcatraz323",
+        "initial_installation_images": [
+          "recovery"
+        ]
+      }
+    ]
+  }
