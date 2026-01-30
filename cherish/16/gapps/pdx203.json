@@ -1,0 +1,26 @@
+{
+    "response": [
+      {
+        "maintainer": "Alcatraz323",
+        "currently_maintained": true,
+        "oem": "Sony",
+        "device": "Xperia 1 II",
+        "filename": "CherishOS-v6.3-pdx203-20251122-1004-UNOFFICIAL-Gapps.zip",
+        "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Xperia%201%20II/Android%2016/CherishOS/20251122/CherishOS-v6.3-pdx203-20251122-1004-UNOFFICIAL-Gapps.zip/download",
+        "timestamp": 1763805736,
+        "md5": "f1363d2890e68779e269f3b24c79458d",
+        "sha256": "6b94d6952f5c9b5619b683ec82ba74a8d1345c4cc27c4907dbd5a7f7375692e5",
+        "size": 2600372196,
+        "version": "6.3-pdx203-20251122-1002-UNOFFICIAL-Gapps",
+        "buildtype": "user",
+        "forum": "https://xdaforums.com/t/rom-16-ota-unofficial-evolution-x-11-0-21-07-2025-full-picogms-vanilla.4751180/",
+        "firmware": "",
+        "paypal": "",
+        "telegram": "",
+        "github": "Alcatraz323",
+        "initial_installation_images": [
+          "recovery"
+        ]
+      }
+    ]
+  }
