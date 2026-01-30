@@ -50,3 +50,22 @@ Initial EvolutionX 16
   August security update
 - 各种修复
   Other fixes
+===========================================================
+[16/11.5.2] 20260109
+设备相关(Device):
+- 各系统组件适配MD3
+  Apply MD3 UI style for system components
+- 升级部分预构建驱动
+  Updated some prebuilt drivers
+- ZRAM后端切换到LZO-RLE
+  Switch zram backend to lzo-rle
+- 其他优化和修复
+  Other fix and optimization
+  
+系统相关(EvolutionX):
+- 1月补丁
+  January security patch
+- Android 16 第一次季度更新
+  Android 16 QPR1
+- 各种修复
+  Other fixes
