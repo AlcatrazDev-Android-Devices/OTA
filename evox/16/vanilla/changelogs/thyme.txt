@@ -73,3 +73,23 @@ Initial EvolutionX 16
   October security patch
 - 各种修复
   Other fixes
+===========================================================
+[16/11.5.2] 20260108
+- 各系统组件适配MD3
+  Apply MD3 UI style for system components
+- 修复NFC部分场景启动失败
+  Fix nfc failure in certain condition
+- 同步上游内核修复提高系统稳定性
+  Sync upstream kernel changes for system stability
+- 启用磁力计滤波
+  Enable magnetometer filter
+- PDInfo添加充电器状态信息
+  Added charger info in PDInfo
+  
+系统相关(EvolutionX):
+- 1月补丁
+  January security patch
+- Android 16 第一次季度更新
+  Android 16 QPR1
+- 各种修复
+  Other fixes
