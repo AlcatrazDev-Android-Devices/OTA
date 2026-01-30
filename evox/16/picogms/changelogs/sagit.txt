@@ -2,3 +2,36 @@
 [16/11.0] 20250801
 首个16版本
 Initial EvolutionX 16
+===========================================================
+[16/11.5.2] 20260126
+设备相关(Device):
+- 启用SecureNFC
+  Enable secure nfc
+- 升级到USB Audio HAL v2
+  Upgrade to USB Audio HAL v2
+- 切换到Uclamp调度
+  Switch to uclamp scheduling
+- 优化LMK
+  Optimize LMK
+- 升级部分预构建驱动
+  Updated some prebuilt drivers
+- ZRAM后端切换到LZO-RLE
+  Switch zram backend to lzo-rle
+- IO调度器切换至bfq
+  Switch io-scheduler to bfq
+- 修复并启用WPA3完整功能
+  Fix and enable full WPA3 function
+- 添加PD信息查看器
+  Implement PDInfo app
+- 其他优化和修复
+  Other fix and optimization
+- 使用release签名可通过更多环境
+  Use release-keys for passing more checks
+  
+系统相关(EvolutionX):
+- 1月补丁
+  January security patch
+- Android 16 第一次季度更新
+  Android 16 QPR1
+- 各种修复
+  Other fixes
