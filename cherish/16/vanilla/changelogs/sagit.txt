@@ -2,3 +2,10 @@
 [16/6.3] 20251120
 - 首个CherishOS构建
   Initial CherishOS build
+===========================================================
+[16/6.3] 20251122
+设备相关(Device):
+- 修复错误的Overlay配置
+  Fix wrong overlay config
+- 添加BCR通话录音功能
+  Add BCR call recording
