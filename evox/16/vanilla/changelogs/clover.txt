@@ -69,3 +69,10 @@ Initial EvolutionX 16
   Android 16 QPR1
 - 各种修复
   Other fixes
+===========================================================
+[16/11.5.2] 20260126
+设备相关(Device):
+- 修复内核导致的App存储访问拒绝
+  Fix app storage access issue from kernel
+- 使用release签名可通过更多环境
+  Use release-keys for passing more checks
