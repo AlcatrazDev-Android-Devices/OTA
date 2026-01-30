@@ -155,3 +155,8 @@ Initial EvolutionX 16
   Implement WiFi Display sink(Miracast)
 - 使用release签名可通过更多环境
   Use release-keys for passing more checks
+===========================================================
+[16/11.5.2] 20260128
+设备相关(Device):
+- 实现电池扩展控制（用于安装3,4代电池后系统进行正确调度， 同时发布配套DTBO）
+  Implement Ext. battery controller (For correct system scheduling after you replaced a mk3/mk4 battery, also released corresponding dtbo)
