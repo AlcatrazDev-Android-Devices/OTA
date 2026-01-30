@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "maintainer": "Alcatraz323",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Mi 6",
+      "filename": "CherishOS-v6.3-sagit-20251120-0843-UNOFFICIAL-PicoGapps.zip",
+      "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%206/Android%2016/CherishOS/20251120/CherishOS-v6.3-sagit-20251120-0843-UNOFFICIAL-PicoGapps.zip/download",
+      "timestamp": 1763628061,
+      "md5": "f32505e15d90cf979fa9d2e868536b8f",
+      "sha256": "b94d3ce92bceabcae5a73a66bd461f462455fc668fe6e29bc8f289d30b2a8ee8",
+      "size": 1860843903,
+      "version": "6.3-sagit-20251120-0841-UNOFFICIAL-Gapps",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/rom-16-ota-unofficial-evolution-x-11-0-01-08-2025-full-picogms-vanilla.4752674/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "",
+      "github": "Alcatraz323",
+      "initial_installation_images": [
+          "recovery"
+      ]
+    }
+  ]
+}
