@@ -44,9 +44,9 @@ Initial EvolutionX 16
   Fixed IMEI not show
 - 其他修复
   Other fixes
-  
 ===========================================================
 [16/11.3] 20251013
+设备相关(Device):
 - 默认内核去除KernelSU, 改为提供KSU boot.img以自行选择是否ksu
   The default kernel removed KernelSU, provided ksu boot.img for you to do it manually
 - 内核上游合并(UFFD, BPF...)
@@ -75,6 +75,7 @@ Initial EvolutionX 16
   Other fixes
 ===========================================================
 [16/11.5.2] 20260108
+设备相关(Device):
 - 各系统组件适配MD3
   Apply MD3 UI style for system components
 - 修复NFC部分场景启动失败
@@ -93,3 +94,10 @@ Initial EvolutionX 16
   Android 16 QPR1
 - 各种修复
   Other fixes
+===========================================================
+[16/11.5.2] 20260126
+设备相关(Device):
+- 实现无线显示接收端（Miracast）
+  Implement WiFi Display sink(Miracast)
+- 使用release签名可通过更多环境
+  Use release-keys for passing more checks
