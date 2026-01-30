@@ -1,0 +1,28 @@
+{
+    "response": [
+      {
+        "maintainer": "Alcatraz323",
+        "currently_maintained": true,
+        "oem": "Xiaomi",
+        "device": "Mi 10S",
+        "filename": "CherishOS-v6.3-thyme-20251119-1331-UNOFFICIAL-PicoGapps.zip",
+        "download": "https://sourceforge.net/projects/alcatrazdev-aosp/files/Mi%2010S/Android%2016/CherishOS/20251119/CherishOS-v6.3-thyme-20251119-1331-UNOFFICIAL-PicoGapps.zip/download",
+        "timestamp": 1763558913,
+        "md5": "1195dede8da96b1ff1cc81de884e8f07",
+        "sha256": "5b4b2f09e5f45d0fbd38b4089fc77fa0422eef51ce806d8d7b36b388794f6c65",
+        "size": 2222307513,
+        "version": "6.3-thyme-20251119-1328-UNOFFICIAL-Gapps",
+        "buildtype": "user",
+        "forum": "https://xdaforums.com/t/rom-16-ota-unofficial-thyme-evolution-x-for-mi-10s-11-0-20-07-2025-full-picogms-vanilla.4751178/",
+        "firmware": "",
+        "paypal": "",
+        "telegram": "",
+        "github": "Alcatraz323",
+        "initial_installation_images": [
+          "boot",
+          "dtbo",
+          "vendor_boot"
+        ]
+      }
+    ]
+  }

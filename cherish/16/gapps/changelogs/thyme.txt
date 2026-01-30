@@ -1,0 +1,29 @@
+===========================================================
+[16/6.3] 20251119
+设备相关(Device):
+- KSU版本内核修复使用终端类软件导致panic的情况
+  Fix kernel panic for ksu version when using a terminal app
+- 内核和设备树适配屏幕early_wakeup调度，提高响应速度
+  Adapted early wakeup hint support for screen, optimized the reaction speed
+- 继续优化亮度/自动亮度相关配置
+  Further optmization for brightness/auto brightness
+- 默认开启息屏时的指纹解锁响应
+  Set screen off fingerprint unlock default on
+- 实现绕过充电器，电池检测启用快充开关（使用后果自负）
+  Implemented fast charge bypass switch for the check of stock charger and battery (USE AT YOUR OWN RISK)
+- 实现查看充电器PDO档位功能
+  Implemented function for checking charger pdo info
+- 启用VoNR
+  Enable VoNR
+- 杜比添加重置配置文件，耳机连接时自动关闭/恢复杜比功能
+  Added reset option and auto enable/disable when a headphone connects for dolby app
+- 更新编解码器配置
+  Updated encoder/decoder configurations
+- 修复部分麦克风使用场景
+  Fix mic issue for certain scenario
+- 进一步优化调度（目前可以做到亮屏双卡+wifi待机120+ mA）
+  Further optimize for power(Idle with dsds and wifi takes 120+mA for now)
+
+系统相关(CherishOS):
+- 首个CherishOS构建
+  Initial CherishOS build
