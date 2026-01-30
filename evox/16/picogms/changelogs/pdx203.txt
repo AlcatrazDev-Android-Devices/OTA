@@ -148,3 +148,10 @@ Initial EvolutionX 16
   Android 16 QPR1
 - 各种修复
   Other fixes
+===========================================================
+[16/11.5.2] 20260126
+设备相关(Device):
+- 实现无线显示接收端（Miracast）
+  Implement WiFi Display sink(Miracast)
+- 使用release签名可通过更多环境
+  Use release-keys for passing more checks
